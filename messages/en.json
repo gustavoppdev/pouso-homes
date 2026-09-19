@@ -1,0 +1,212 @@
+{
+  "Metadata": {
+    "siteName": "Pouso",
+    "title": "Pouso | Modular country homes, ready in 90 days",
+    "description": "Factory-built modular homes, assembled on your plot in three days. Six models from 18 to 72 m², for mountains, coast and countryside.",
+    "ogImageAlt": "Pouso, modular homes for the countryside"
+  },
+  "Nav": {
+    "label": "Main",
+    "skipToContent": "Skip to content",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "home": "Pouso, back to top",
+    "links": {
+      "about": "About",
+      "deliveries": "Deliveries",
+      "models": "Models",
+      "quote": "Get a quote"
+    }
+  },
+  "LocaleSwitcher": {
+    "label": "Language",
+    "locales": {
+      "pt-BR": "Português",
+      "en": "English"
+    }
+  },
+  "Footer": {
+    "label": "Footer",
+    "rights": "© {year} Pouso. All rights reserved.",
+    "privacy": "Privacy",
+    "tagline": ["Built in the factory.", "Assembled on your plot.", "Made to stay."],
+    "contactTitle": "Contact",
+    "email": "ola@pousocasas.com.br",
+    "phone": "+55 35 3200-4180",
+    "phoneHref": "+553532004180",
+    "address": "Estrada da Serra Fina, 1200, Extrema, Brazil",
+    "sectionsTitle": "Explore"
+  },
+  "Demo": {
+    "footerNotice": "Portfolio project with a fictional brand.",
+    "conversionNotice": "Portfolio demo: nothing was sent."
+  },
+  "NotFound": {
+    "title": "This page doesn't exist",
+    "description": "The address may have changed or never existed. The houses are right where you left them.",
+    "backHome": "Back to home"
+  },
+  "Privacy": {
+    "title": "Privacy Policy",
+    "updated": "Updated {date}",
+    "sections": {
+      "project": {
+        "title": "A portfolio project",
+        "body": "This site is a portfolio demo. Pouso is a fictional brand, and no house is sold or built here."
+      },
+      "data": {
+        "title": "No data is collected",
+        "body": "The quote form is simulated in your browser. Nothing you type is stored or sent to any server."
+      },
+      "cookies": {
+        "title": "Cookies",
+        "body": "The only cookie remembers the language you chose. There are no analytics, advertising or tracking tools."
+      }
+    }
+  },
+  "Conversion": {
+    "lead": {
+      "title": "Get a quote for your land",
+      "fields": {
+        "name": {
+          "label": "Name",
+          "placeholder": "What should we call you?"
+        },
+        "email": {
+          "label": "Email",
+          "placeholder": "you@example.com"
+        },
+        "phone": {
+          "label": "Phone",
+          "placeholder": "(555) 123-4567"
+        },
+        "choice": {
+          "label": "Model you're considering",
+          "placeholder": "Choose a model",
+          "undecided": "Not sure yet"
+        }
+      },
+      "errors": {
+        "required": "Fill in this field.",
+        "email": "Enter a valid email.",
+        "phone": "Enter a phone number with area code.",
+        "choice": "Choose a model or “Not sure yet”."
+      },
+      "consent": "By submitting, you agree to the <link>Privacy Policy</link>.",
+      "submit": "Get a quote",
+      "submitting": "Sending request…",
+      "successTitle": "Quote request received",
+      "successBody": "Thanks, {name}. In a real project, a Pouso consultant would reply within two business days with a quote for your land.",
+      "reset": "Send another request"
+    }
+  },
+  "Hero": {
+    "title": "Your country home, ready in 90 days.",
+    "lead": "Modular homes built in our factory, trucked to your plot and assembled in three days.",
+    "barLabel": "Quick quote",
+    "modelLabel": "Model",
+    "modelPlaceholder": "Choose a model",
+    "cta": "Get a quote",
+    "imageAlt": "Dark timber modular house on a grassy ridge at sunrise, with a misty valley and mountains behind"
+  },
+  "Models": {
+    "title": "Six models, from 1 to 4 modules.",
+    "lead": "Same structure, same finishes, same warranty. Only the size changes.",
+    "cta": "Get a quote",
+    "price": "from {price}",
+    "area": "{area} m²",
+    "bedrooms": "{count, plural, =0 {studio} one {# bedroom} other {# bedrooms}}",
+    "bathrooms": "{count, plural, one {# bathroom} other {# bathrooms}}",
+    "plan": "{count, plural, one {Floor plan with # module} other {Floor plan with # modules}}",
+    "badge": "Most requested",
+    "quote": "Quote this model",
+    "items": {
+      "casulo": {
+        "name": "Casulo",
+        "description": "One module, one room. A hideaway for two, or a studio at the back of your land.",
+        "imageAlt": "Casulo model: single-module house with a glazed end, in tall grass at the edge of a eucalyptus wood"
+      },
+      "ripa": {
+        "name": "Ripa",
+        "description": "Two modules end to end: bedroom at one end, living and kitchen at the other, light on both sides.",
+        "imageAlt": "Ripa model: long, slim two-module house in a golden field at dusk"
+      },
+      "varanda": {
+        "name": "Varanda",
+        "description": "Two modules side by side, with a covered porch running the full length.",
+        "imageAlt": "Varanda model: two-module house with a covered timber porch along the front, in a green pasture"
+      },
+      "serra": {
+        "name": "Serra",
+        "description": "Three modules in an L, designed for sloping land. Two bedrooms and a living room facing the view.",
+        "imageAlt": "Serra model: three-module L-shaped house on posts on a slope, with araucaria trees behind"
+      },
+      "patio": {
+        "name": "Pátio",
+        "description": "Four modules around an inner courtyard. City-house privacy in the middle of the countryside.",
+        "imageAlt": "Pátio model: four modules in a U around a courtyard with a tree, seen from above"
+      },
+      "longa": {
+        "name": "Longa",
+        "description": "Four modules over two floors, three bedrooms. Room for the whole family.",
+        "imageAlt": "Longa model: two-storey four-module house on a lawn with trees behind"
+      }
+    },
+    "quoteLabel": "Quote this model, {name}"
+  },
+  "About": {
+    "title": "A real house, built in a factory and assembled on your land.",
+    "body": "Every Pouso is built in our factory in Extrema, Brazil, from 3 × 6 m modules with a steel frame, treated timber and full insulation. While you sort out the paperwork for your land, the house is already being built. When it's ready, it goes on a truck and is assembled in three days.",
+    "cta": "See the models",
+    "stats": {
+      "delivery": {
+        "unit": "days",
+        "caption": "from signed contract to keys in hand"
+      },
+      "homes": {
+        "unit": "homes",
+        "caption": "delivered to mountains, coast and countryside"
+      },
+      "assembly": {
+        "unit": "days",
+        "caption": "of on-site assembly, with our own crane and crew"
+      },
+      "warranty": {
+        "unit": "years",
+        "caption": "of structural warranty"
+      }
+    },
+    "statsLabel": "Pouso in numbers"
+  },
+  "Deliveries": {
+    "title": "Recent deliveries",
+    "cta": "I want one like this",
+    "assembly": "{days, plural, one {#-day assembly} other {#-day assembly}}",
+    "area": "{area} m²",
+    "areaPorch": "{area} m² + porch",
+    "model": "{name} model",
+    "items": {
+      "cunha": {
+        "title": "Mountain house, Cunha, Brazil",
+        "body": "A slope steep enough to scare off any contractor. Steel posts took up the grade, and the house now floats above the pasture with the living room facing the valley.",
+        "imageAlt": "Dark L-shaped modular house on a green pasture slope, with araucaria trees and mountains behind, late afternoon"
+      },
+      "rosa": {
+        "title": "Beach house, Praia do Rosa, Brazil",
+        "body": "Two modules and a glass facade facing the ocean. The coastal scrub was left untouched: the house sits on posts and barely touches the ground.",
+        "imageAlt": "Dark modular house on posts atop a hill of coastal scrub, with the ocean and a beach behind"
+      },
+      "sapucai": {
+        "title": "Country house, São Bento do Sapucaí, Brazil",
+        "body": "A couple from São Paulo wanted weekends in the country without two years of construction. From contract to their first night in the house: 84 days.",
+        "imageAlt": "Modular house with a covered porch in a fenced pasture, with a large granite dome on the horizon"
+      }
+    },
+    "ctaLabel": "I want one like this, {title}"
+  },
+  "Quote": {
+    "title": "Get a quote for your land",
+    "lead": "Tell us which model you're considering. A consultant checks access to your land, transport and foundations, then sends you a fixed quote.",
+    "imageAlt": "Empty hillside plot at dusk, with a wooden fence and stakes marking where the house will stand"
+  }
+}

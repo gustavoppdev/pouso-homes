@@ -1,0 +1,212 @@
+{
+  "Metadata": {
+    "siteName": "Pouso",
+    "title": "Pouso | Casas modulares prontas em 90 dias",
+    "description": "Casas modulares feitas em fábrica e montadas no seu terreno em três dias. Seis modelos, de 18 a 72 m², para serra, praia e campo.",
+    "ogImageAlt": "Pouso, casas modulares para o campo"
+  },
+  "Nav": {
+    "label": "Principal",
+    "skipToContent": "Pular para o conteúdo",
+    "openMenu": "Abrir menu",
+    "closeMenu": "Fechar menu",
+    "home": "Pouso, voltar ao início",
+    "links": {
+      "about": "Sobre",
+      "deliveries": "Entregas",
+      "models": "Modelos",
+      "quote": "Orçamento"
+    }
+  },
+  "LocaleSwitcher": {
+    "label": "Idioma",
+    "locales": {
+      "pt-BR": "Português",
+      "en": "English"
+    }
+  },
+  "Footer": {
+    "label": "Rodapé",
+    "rights": "© {year} Pouso. Todos os direitos reservados.",
+    "privacy": "Privacidade",
+    "tagline": ["Feita em fábrica.", "Montada no seu terreno.", "Pronta para ficar."],
+    "contactTitle": "Contato",
+    "email": "ola@pousocasas.com.br",
+    "phone": "+55 35 3200-4180",
+    "phoneHref": "+553532004180",
+    "address": "Estrada da Serra Fina, 1200, Extrema, MG",
+    "sectionsTitle": "Navegue"
+  },
+  "Demo": {
+    "footerNotice": "Projeto de portfólio com marca fictícia.",
+    "conversionNotice": "Demonstração de portfólio: nada foi enviado."
+  },
+  "NotFound": {
+    "title": "Esta página não existe",
+    "description": "O endereço pode ter mudado ou nunca ter existido. As casas continuam no lugar.",
+    "backHome": "Voltar ao início"
+  },
+  "Privacy": {
+    "title": "Política de Privacidade",
+    "updated": "Atualizada em {date}",
+    "sections": {
+      "project": {
+        "title": "Um projeto de portfólio",
+        "body": "Este site é uma demonstração de portfólio. A Pouso é uma marca fictícia, e nenhuma casa é vendida ou construída aqui."
+      },
+      "data": {
+        "title": "Nenhum dado é coletado",
+        "body": "O formulário de orçamento é simulado no seu navegador. Nada do que você digita é armazenado ou enviado a qualquer servidor."
+      },
+      "cookies": {
+        "title": "Cookies",
+        "body": "O único cookie usado guarda o idioma que você escolheu. Não há ferramentas de análise, publicidade ou rastreamento."
+      }
+    }
+  },
+  "Conversion": {
+    "lead": {
+      "title": "Receba um orçamento para o seu terreno",
+      "fields": {
+        "name": {
+          "label": "Nome",
+          "placeholder": "Como podemos te chamar?"
+        },
+        "email": {
+          "label": "E-mail",
+          "placeholder": "voce@exemplo.com"
+        },
+        "phone": {
+          "label": "WhatsApp",
+          "placeholder": "(11) 91234-5678"
+        },
+        "choice": {
+          "label": "Modelo de interesse",
+          "placeholder": "Escolha um modelo",
+          "undecided": "Ainda não sei"
+        }
+      },
+      "errors": {
+        "required": "Preencha este campo.",
+        "email": "Informe um e-mail válido.",
+        "phone": "Informe um telefone com DDD.",
+        "choice": "Escolha um modelo ou “Ainda não sei”."
+      },
+      "consent": "Ao enviar, você concorda com a <link>Política de Privacidade</link>.",
+      "submit": "Pedir orçamento",
+      "submitting": "Enviando pedido…",
+      "successTitle": "Pedido de orçamento recebido",
+      "successBody": "Obrigado, {name}. Em um projeto real, um consultor da Pouso responderia em até dois dias úteis com o orçamento para o seu terreno.",
+      "reset": "Fazer outro pedido"
+    }
+  },
+  "Hero": {
+    "title": "Sua casa no campo, pronta em 90 dias.",
+    "lead": "Casas modulares feitas em fábrica, levadas de caminhão e montadas no seu terreno em três dias.",
+    "barLabel": "Orçamento rápido",
+    "modelLabel": "Modelo",
+    "modelPlaceholder": "Escolha um modelo",
+    "cta": "Pedir orçamento",
+    "imageAlt": "Casa modular de madeira escura no alto de uma colina de capim, com vale enevoado e serras ao amanhecer"
+  },
+  "Models": {
+    "title": "Seis modelos, de 1 a 4 módulos.",
+    "lead": "Todos com a mesma estrutura, os mesmos acabamentos e a mesma garantia. O que muda é o tamanho.",
+    "cta": "Pedir orçamento",
+    "price": "a partir de {price}",
+    "area": "{area} m²",
+    "bedrooms": "{count, plural, =0 {estúdio} one {# quarto} other {# quartos}}",
+    "bathrooms": "{count, plural, one {# banheiro} other {# banheiros}}",
+    "plan": "{count, plural, one {Planta com # módulo} other {Planta com # módulos}}",
+    "badge": "Mais pedido",
+    "quote": "Orçar este modelo",
+    "items": {
+      "casulo": {
+        "name": "Casulo",
+        "description": "Um módulo, um ambiente. Um refúgio para dois ou um estúdio no fundo do terreno.",
+        "imageAlt": "Modelo Casulo: casa de um módulo com a ponta de vidro, no capim alto na borda de uma mata de eucalipto"
+      },
+      "ripa": {
+        "name": "Ripa",
+        "description": "Dois módulos em linha: o quarto numa ponta, sala e cozinha na outra, e luz dos dois lados.",
+        "imageAlt": "Modelo Ripa: casa longa e estreita de dois módulos em linha, num campo dourado ao entardecer"
+      },
+      "varanda": {
+        "name": "Varanda",
+        "description": "Dois módulos lado a lado e uma varanda coberta de ponta a ponta.",
+        "imageAlt": "Modelo Varanda: casa de dois módulos com varanda coberta de madeira ao longo da frente, num pasto verde"
+      },
+      "serra": {
+        "name": "Serra",
+        "description": "Três módulos em L, pensado para terreno em declive. Dois quartos e a sala virada para a vista.",
+        "imageAlt": "Modelo Serra: casa de três módulos em L sobre pilares numa encosta, com araucárias ao fundo"
+      },
+      "patio": {
+        "name": "Pátio",
+        "description": "Quatro módulos em volta de um pátio interno. Privacidade de casa de cidade, no meio do campo.",
+        "imageAlt": "Modelo Pátio: quatro módulos em U em volta de um pátio com uma árvore, visto do alto"
+      },
+      "longa": {
+        "name": "Longa",
+        "description": "Quatro módulos em dois pavimentos e três quartos. A casa da família inteira.",
+        "imageAlt": "Modelo Longa: casa de quatro módulos em dois pavimentos, num gramado com árvores ao fundo"
+      }
+    },
+    "quoteLabel": "Orçar este modelo, {name}"
+  },
+  "About": {
+    "title": "Uma casa de verdade, feita em fábrica e montada no seu terreno.",
+    "body": "Cada Pouso é construída na nossa fábrica em Extrema (MG), em módulos de 3 × 6 metros com estrutura de aço, madeira tratada e isolamento completo. Enquanto você resolve a papelada do terreno, a casa já está sendo feita. Quando fica pronta, sobe num caminhão e é montada em três dias.",
+    "cta": "Ver os modelos",
+    "stats": {
+      "delivery": {
+        "unit": "dias",
+        "caption": "do contrato assinado à chave na mão"
+      },
+      "homes": {
+        "unit": "casas",
+        "caption": "entregues em serra, praia e campo"
+      },
+      "assembly": {
+        "unit": "dias",
+        "caption": "de montagem no terreno, com guindaste e equipe própria"
+      },
+      "warranty": {
+        "unit": "anos",
+        "caption": "de garantia na estrutura"
+      }
+    },
+    "statsLabel": "A Pouso em números"
+  },
+  "Deliveries": {
+    "title": "Entregas recentes",
+    "cta": "Quero uma parecida",
+    "assembly": "{days, plural, one {# dia de montagem} other {# dias de montagem}}",
+    "area": "{area} m²",
+    "areaPorch": "{area} m² + varanda",
+    "model": "Modelo {name}",
+    "items": {
+      "cunha": {
+        "title": "Casa na serra, Cunha (SP)",
+        "body": "Um terreno em declive que assustava qualquer empreiteiro. Os pilares de aço compensaram a inclinação, e a casa ficou suspensa sobre o pasto, com a sala virada para o vale.",
+        "imageAlt": "Casa modular escura em L numa encosta de pasto verde, com araucárias e serras ao fundo, no fim da tarde"
+      },
+      "rosa": {
+        "title": "Casa de praia, Praia do Rosa (SC)",
+        "body": "Dois módulos e a fachada de vidro voltada para o mar. A restinga ficou intacta: a casa se apoia em pilares e quase não toca o chão.",
+        "imageAlt": "Casa modular escura sobre pilares no alto de um morro de restinga, com o mar e uma praia ao fundo"
+      },
+      "sapucai": {
+        "title": "Casa de campo, São Bento do Sapucaí (MG)",
+        "body": "Um casal de São Paulo queria passar os fins de semana no campo sem encarar dois anos de obra. Do contrato à primeira noite na casa foram 84 dias.",
+        "imageAlt": "Casa modular com varanda coberta num pasto cercado, com um grande paredão de granito no horizonte"
+      }
+    },
+    "ctaLabel": "Quero uma parecida, {title}"
+  },
+  "Quote": {
+    "title": "Receba um orçamento para o seu terreno",
+    "lead": "Diga qual modelo te interessa. Um consultor avalia o acesso ao terreno, o transporte e a fundação, e envia um orçamento fechado.",
+    "imageAlt": "Terreno vazio numa encosta de serra ao anoitecer, com cerca de madeira e estacas marcando onde a casa vai ficar"
+  }
+}
