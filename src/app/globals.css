@@ -66,11 +66,14 @@
 
   --ease-brand: var(--ease-interaction);
 
-  --radius-sm: calc(var(--radius-control) * 0.6);
-  --radius-md: calc(var(--radius-control) * 0.8);
+  /* The scale derives from the card radius, not the control radius: with pill
+     controls (999px) every "small" corner would come out enormous. Only
+     --radius-lg follows the control, because that is what buttons use. */
+  --radius-sm: calc(var(--radius-card) * 0.3);
+  --radius-md: calc(var(--radius-card) * 0.4);
   --radius-lg: var(--radius-control);
-  --radius-xl: calc(var(--radius-control) * 1.4);
-  --radius-2xl: calc(var(--radius-control) * 1.8);
+  --radius-xl: calc(var(--radius-card) * 0.7);
+  --radius-2xl: calc(var(--radius-card) * 0.9);
 }
 
 @theme {
